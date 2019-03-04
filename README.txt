@@ -1,3 +1,2 @@
-This is a test for the creative coding class and test
-
+this is a show pragram for my creative class
  
